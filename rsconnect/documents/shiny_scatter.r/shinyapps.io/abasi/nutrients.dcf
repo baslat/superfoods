@@ -1,0 +1,13 @@
+name: nutrients
+title: nutrients
+username:
+account: abasi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 283975
+bundleId: 1228203
+url: https://abasi.shinyapps.io/nutrients/
+when: 1518934175.22932
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: AUSNUT - Copy.xlsx|AUSNUT.csv|datacamp_example.r|pca.r|scatter_plotter.r

@@ -1,0 +1,13 @@
+name: macros
+title: macros
+username:
+account: abasi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 305803
+bundleId: 1285194
+url: https://abasi.shinyapps.io/macros/
+when: 1521848444.89632
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 2011-2013-Appendix1.xlsx|577C088F.tmp|app.r|AUSNUT - Copy.xlsx|AUSNUT.csv|AUSNUT.xlsx|AUSNUT_BI_collapser.xlsx|AUSNUT_BI_test.xlsx|AUSNUT2.csv|AUSNUT3.csv|cloud_12.jpeg|cloud_15.jpeg|cloud_22.jpeg|cloud_6.jpeg|clustering.r|collapsed.csv|collapser.r|datacamp_example.r|energy.jpeg|meal_profiler.xlsx|minerals.jpeg|nutrients.pbix|nutrients_restyle.pbix|nutrients2_test.pbix|pca.r|R_colours.jpeg|ratios_global.r|rdis2.xlsx|scatter_plotter.r|shiny_bar_nuts.r|shiny_scatter.r|som.r|ui,.r|vitamins.jpeg
