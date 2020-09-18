@@ -4,7 +4,7 @@ library(plotly)
 library(shiny)
 
 
-foods <- read_excel("AUSNUT.xlsx", sheet = "Food Nutrient Database")
+foods <- read_excel("data/AUSNUT.xlsx", sheet = "Food Nutrient Database")
 
 data <- select(foods, 7:59)
 
